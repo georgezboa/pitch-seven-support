@@ -1,3 +1,3 @@
-# Pitch Seven support
+# Pitch Log support
 
 Public support and privacy pages. Contains no application source, player records, or videos.
